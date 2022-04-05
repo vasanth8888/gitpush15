@@ -22,9 +22,18 @@ public class Gitpush15 {
 		// TODO Auto-generated method stub
 
 	}
-	
+	private void name5() {
+		// TODO Auto-generated method stub
+		
+		
 
-	public static void main(String[] args) {
+	}
+	
+	private void name6() {
+		// TODO Auto-generated method stub
+
+	}
+	static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
