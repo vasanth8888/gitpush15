@@ -13,9 +13,15 @@ public class Gitpush15 {
 
 	}
 	
+	private void name3() {
+		// TODO Auto-generated method stub
+
+	}
 	
-	
-	
+	private void name4() {
+		// TODO Auto-generated method stub
+
+	}
 	
 
 	public static void main(String[] args) {
